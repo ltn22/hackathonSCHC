@@ -23,8 +23,8 @@ both operate in the 868 Mhz band.
 For the Sigfox network, radio and network gateways will be based on the live service 
 provider infrastructure. For the hackathon, Sigfox will provide access, relaxing 
 restictions on the number of uplink and downlink messages sent per day.  Devices 
-will have to be register during the hackathon on a special account. Device ID and PAC 
-number are needed to proceed to the registration.
+will have to be register during the hackathon on a special account. Device ID and 
+PAC number are needed to proceed to the registration.
 
 LoRaWAN network will be provided inside the room on a NGW based on an open source
 implementation of the LoRaWAN 1.0.4 [https://github.com/brocaar/loraserver]. 
