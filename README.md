@@ -20,11 +20,12 @@ A LPWAN network is based on this architecture [https://tools.ietf.org/html/draft
 For this hackathon, two technologies has been selected: LoRaWAN and Sigfox. They
 both operate in the 868 Mhz band (in Europe). 
 
-For Sigfox network, the radio gateway and network gateway will be based on the provider
-infrastructure. For this hackathon, Sigfox will provide an access without restictions 
-on the number of uplink and downlink messages sent per day. For this, devices 
-will have to be registered during the hackathon on a special account. Device ID and 
-**PAC number** are needed to proceed to the registration. 
+For the Sigfox network, radio and network gateways will be based on the live service 
+provider infrastructure. For the hackathon, Sigfox will provide access, relaxing 
+restictions on the number of uplink and downlink messages sent per day.  Devices 
+will have to be register during the hackathon on a special account. Device ID and 
+**PAC number** are needed to proceed to the registration.
+
 
 A LoRaWAN network will be provided inside the room. The NGW will be based on an open source
 implementation of LoRaWAN 1.0.4 [https://github.com/brocaar/loraserver]. 
