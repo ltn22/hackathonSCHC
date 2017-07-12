@@ -63,15 +63,15 @@ The POST message sent by the gateway will have the following format:
 
 ~~~~
 RAW JSON { 
-  devEUI: '70b3d54997ceca03',
-  appEUI: '0000000000000000',
+  devEUI: "70b3d54997ceca03",
+  appEUI: "0000000000000000",
   fPort: 5,
   gatewayCount: 4,
   rssi: 78,
-  data: 'AcaZBQkNEPT1GV0aDACEGRigghkLNBoAAYc+OgAArF9FaGVsbG8=',
+  data: "AcaZBQkNEPT1GV0aDACEGRigghkLNBoAAYc+OgAArF9FaGVsbG8=",
   loRaSNR: 6,
   frequency: 86810000000,
-  dataRate: { modulation: 'LORA', spreadFactor: 7, bandwidth: 125 } 
+  dataRate: { modulation: "LORA", spreadFactor: 7, bandwidth: 125 } 
 }
 ~~~~
 
