@@ -82,9 +82,9 @@ have the following format:
 
 ~~~~
  {
-			'fport' : 2,
-			'data' : data,
-			'devEUI' : ES_DID
+			"fport" : 2,
+			"data" : data,
+			"devEUI" : ES_DID
 }
 ~~~~
 
