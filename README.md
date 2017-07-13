@@ -26,6 +26,7 @@ restictions on the number of uplink and downlink messages sent per day.  Devices
 will have to be register during the hackathon on a special account. Device ID and 
 **PAC number** are needed to proceed to the registration.
 
+Come with your own devices or use the pycom (SiPy and LoPy) devices we will bring. 
 
 A LoRaWAN network will be provided inside the room. The NGW will be based on an open source
 implementation of LoRaWAN 1.0.4 [https://github.com/brocaar/loraserver]. 
